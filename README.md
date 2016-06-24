@@ -37,7 +37,7 @@ Steps:
         5. From "Themes", click on the button named "Open Theme Folder".
   3. Once the "themes" folder has been opened, open another file explorer window, and go into "Downloads" and find the css file you downloaded.
   7. Move the css file to the "themes" folder.
-  8. Restart Discord. If you just click the "X" in the corner, that's not the way to shutting it down. It saves the progress of the window that was still open, and resumes it when you open it up. It doesn't load any new files when doing it this way. So you're going to have to shut it down through Task Manager manually (Ctrl+Shft+Esc) by ending the task. Then reopen Discord.
+  8. Restart Discord. If you just click the "X" in the corner, that's not the way to shut it down. It saves the progress of the window that was still open, and resumes it when you open it up. It doesn't load any new files when doing it this way. So you're going to have to shut it down through Task Manager manually (Ctrl+Shft+Esc) by ending the task. Then reopen Discord.
   9. Finally, to activating the theme. Go down to "User Settings" - the little gear icon next to your name.
   10. In that menu, go down to "BetterDiscord". (If it isn't showing up, you didn't install BetterDiscord correctly. If so, close down Discord and try installing again.)
   11. In "BetterDiscord", Go to the tab named "Themes".
