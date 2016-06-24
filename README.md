@@ -2,7 +2,7 @@
 
 By ZukeG
 
-To be able to installs theme, of course, requires that BetterDiscord is installed preemtively.
+To be able to install themes, of course, requires that BetterDiscord is installed preemtively.
 
   https://betterdiscord.net/home/
   
