@@ -22,12 +22,14 @@ Steps:
     NOTE:There's multiple ways to go about this.
 
       Way #1
+      
         1. Go down to the search bar on the task bar or the address bar in your file explorer.
         2. Type "%appdata%" in the bar.
         3. Once you're there, look for the folder titled "BetterDiscord" and go into it.
         4. Go into the folder named "themes" and go into that.
 
       Way #2
+      
         1. Open Discord, if it isn't open already.
         2. Do down to "User Settings" - the little gear icon next to your name.
         3. In that menu, go down to "BetterDiscord". (If it isn't showing up, you didn't install BetterDiscord correctly. If so, close down Discord and try installing again.)
