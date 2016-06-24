@@ -1,8 +1,13 @@
 # How to Install BetterDiscord Themes
+
 By ZukeG
+
 To be able to installs theme, of course, requires that BetterDiscord is installed preemtively.
+
   https://betterdiscord.net/home/
+  
 Explaining how to install the different versions of BetterDiscord would make this guide unneccessarily long.
+
 NOTE: Anything in quotation marks will not actually have quotation marks on the actual file itself, unless specified.
 
 Once BetterDiscord is installed, you can download and install a theme. The only ways I know how to do this only works with windows, but I'm sure that there's a way to do it on a mac or Linux.
