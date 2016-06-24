@@ -1,3 +1,19 @@
+# Captain Falcon Theme
+
+Scroll Down below for an extensive and detailed guide on how to install BetterDiscord Themes!
+
+Do you have style?
+
+Do you like Smash Bros?
+
+If you answered yes to both of these questions, then great! You're perfect for this theme.
+
+If no... meh, it's fine. You can still get the theme anyways.
+
+Show me your moves! Come on!
+
+This theme was based off of Maple's "Sleeping Beauty" Theme, but with many tweaks and changes.
+
 # How to Install BetterDiscord Themes
 
 By ZukeG
