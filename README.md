@@ -11,16 +11,22 @@ Explaining how to install the different versions of BetterDiscord would make thi
 NOTE: Anything in quotation marks will not actually have quotation marks on the actual file itself, unless specified.
 
 Once BetterDiscord is installed, you can download and install a theme. The only ways I know how to do this only works with windows, but I'm sure that there's a way to do it on a mac or Linux.
+
 Steps:
+
   1. Download the theme's css file from "https://betterdiscord.net/themes/". (Or if you want a Captain Falcon theme, you could always just download the one I made here.)
+
       NOTE: Make sure that your theme's extension is ".theme.css" because BetterDiscord won't accept it unless you use that extension.
   2. Find the "themes" folder.
-    NOTE:There's two ways to go about this.
+
+    NOTE:There's multiple ways to go about this.
+
       Way #1
         1. Go down to the search bar on the task bar or the address bar in your file explorer.
         2. Type "%appdata%" in the bar.
         3. Once you're there, look for the folder titled "BetterDiscord" and go into it.
         4. Go into the folder named "themes" and go into that.
+
       Way #2
         1. Open Discord, if it isn't open already.
         2. Do down to "User Settings" - the little gear icon next to your name.
