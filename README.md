@@ -1,4 +1,4 @@
-# Captain Falcon Theme
+# ZukeG's Captain Falcon Theme
 
 Scroll Down below for an extensive and detailed guide on how to install BetterDiscord Themes!
 
